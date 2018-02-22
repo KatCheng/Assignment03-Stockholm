@@ -22,7 +22,7 @@
   <!-- User should be able to know which page they currently at, using JS to indicate current page-->
 
 
-<img class="portrait" src="images/xiao.png" alt="Xiao">
+<img class="portrait" src="images/xiao.jpeg" alt="Xiao">
 
 <h2>About</h2>
 <p>My name is Xiao Cheng, and my friends all call me Katherine/Kat. I am currently studying at the University of Rochester, majoring in Computer Science and minoring in Philosophy. Comparing to other CS students, my progress is kind of slower, because I transferred to this major in my Sophomore year. Originally, I was considering majoring in Audio and Music Engineering. The reasons why I changed my major were complicated, but mostly because AME was not something I thought it would be. After taking several CS classes, I realized that I am really interested in UI/UX design, 3D modeling, game design, and front-end stuffs. I enjoy seeing the beautiful results that my work turned out to be. I guess I am more of a visual person anyways. </p>
