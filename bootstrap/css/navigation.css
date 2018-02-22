@@ -1,0 +1,35 @@
+.menu {
+	margin-top: 0;
+	margin-left: 0;
+	text-align: center;
+}
+
+.menu ul {
+	list-style-type: none;
+	padding-left: 0;
+	margin: 0;
+	border-collapse: collapse; 
+}
+
+.menu a {
+	color: white;
+	display: block;
+	text-decoration: none;
+	padding: 5px 30px 5px 30px;
+}
+
+.menu a:hover { 
+	background-color: rgb(206,217,239); 
+	border-radius: 5px;
+}
+
+.menu li {
+	display: inline-block;
+}
+
+.menu .is-current {
+	color: white;
+	border: 1px solid white;
+	border-radius: 5px;
+}
+
