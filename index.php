@@ -9,11 +9,12 @@
 </head>
 
 <body>
+  <div class=headerbox>
   		<header>
     		<h1>Three Chinese Girls</h1>
     		<span>CSC 174 Assignment 3</span>
   		</header>
-
+</div>
   		<?php
   		include "includes/nav.php";
   		?>
