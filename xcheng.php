@@ -14,7 +14,7 @@
 
 
 <body>
-    
+    <div class=headerbox>
   <header>
     <h1>Xiao Cheng</h1>
   </header>
@@ -23,6 +23,7 @@
   include "includes/nav.php";
   ?>
   <!-- User should be able to know which page they currently at, using JS to indicate current page-->
+<div class="container"> 
 
 
 <img class="portrait" src="images/xiao.jpeg" alt="Xiao">
