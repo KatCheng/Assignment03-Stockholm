@@ -14,7 +14,7 @@
 
 
 <body>
-    
+    <div class=headerbox>
   <header>
     <h1>CHARLIE LU</h1>
   </header>
@@ -24,7 +24,8 @@
   ?>
   <!-- User should be able to know which page they currently at, using JS to indicate current page-->
 
- 
+ </div>
+ <div class="container">
   <img class="portrait" src="images/charlie.jpg" alt="Charlie">
 	<h2>About</h2>
 
@@ -51,7 +52,7 @@
     <li>Research Method in Psychology</li>
     </ul>
 
-  
+  </div>
     <?php
     include 'includes/footer.php';
     include 'includes/scripts.php';

@@ -14,7 +14,7 @@
 
 
 <body>
-
+ <div class=headerbox>
   <header>
     <h1>VALERIE WANG</h1>
   </header>
@@ -23,7 +23,8 @@
   include "includes/nav.php";
   ?>
   <!-- User should be able to know which page they currently at, using JS to indicate current page-->
-   
+   </div>
+   <div class="container">
 
   <img class="portrait" src="images/valerie.jpg" alt="Valerie">
 
@@ -47,7 +48,7 @@
       <li> Principles of Marketing</li>
     </ul>
 
-  
+  </div>
 <?php
     include 'includes/footer.php';
     include 'includes/scripts.php';
