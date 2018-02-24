@@ -17,6 +17,7 @@
   		<?php
   		include "includes/nav.php";
   		?>
+      <div class="container">
       <!-- User should be able to know which page they currently at, using JS to indicate current page-->
 
       <!-- Coder and Designer should implement and design a JS slideshow here -->
@@ -35,16 +36,11 @@
       	<li>Major in Computer Science</li>
       </ul>  	
 
-      <h3>Charlie Lu</h3>
-      <img src="images/charlie.jpg">
-      	  		
-      <h3>Kat Chen</h3>	
-      <img src="images/xiao.jpeg">
-      	  		
+      <h3>Charlie Lu</h3>      	  		
+      <h3>Kat Chen</h3>	      	  		
       <h3>Valerie Wang</h3>
-      <img src="images/valerie.jpg">
       	  			
-      	  		
+      </div>	  		
         
       <?php
           include 'includes/footer.php';
