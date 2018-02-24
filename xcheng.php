@@ -23,6 +23,7 @@
   include "includes/nav.php";
   ?>
   <!-- User should be able to know which page they currently at, using JS to indicate current page-->
+</div>
 <div class="container"> 
 
 
@@ -48,6 +49,8 @@
     <li>Neural foundations of behavior</li>
     <li>Research Method in Psychology</li>
     </ul>
+
+</div>
 
 <?php
     include 'includes/footer.php';
