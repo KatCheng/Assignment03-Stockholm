@@ -20,29 +20,36 @@
       <!-- User should be able to know which page they currently at, using JS to indicate current page-->
 
       <!-- Coder and Designer should implement and design a JS slideshow here -->
+      <div class="slides">
+      <ul class="rslides">
+      <li><img src="images/charlie.jpg" alt="Charlie"></li>
+      <li><img src="images/xiao.jpeg" alt="Kat"></li>
+      <li><img src="images/valerie.jpg" alt="Valerie"></li>
+    </ul>
+    </div>
 
-<h2>Commonality</h2>
-<ul>
-	<li>Girls</li>
-	<li>Chinese</li>
-	<li>Major in Computer Science</li>
-</ul>  	
+      <h2>Commonality</h2>
+      <ul>
+      	<li>Girls</li>
+      	<li>Chinese</li>
+      	<li>Major in Computer Science</li>
+      </ul>  	
 
-<h3>Charlie Lu</h3>
-<img src="images/charlie.jpg">
-	  		
-<h3>Kat Chen</h3>	
-<img src="images/xiao.png">
-	  		
-<h3>Valerie Wang</h3>
-<img src="images/valerie.jpg">
-	  			
-	  		
-  
-<?php
-    include 'includes/footer.php';
-    include 'includes/scripts.php';
-    ?>
+      <h3>Charlie Lu</h3>
+      <img src="images/charlie.jpg">
+      	  		
+      <h3>Kat Chen</h3>	
+      <img src="images/xiao.jpeg">
+      	  		
+      <h3>Valerie Wang</h3>
+      <img src="images/valerie.jpg">
+      	  			
+      	  		
+        
+      <?php
+          include 'includes/footer.php';
+          include 'includes/scripts.php';
+          ?>
 
 </body>
 </html>
