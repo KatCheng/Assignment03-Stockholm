@@ -91,4 +91,18 @@ footer {
   border: 1px solid white;
   border-radius: 5px;
 }
+h1,h2,h3{
+  
+  font-family: 'Libre Baskerville', serif;
+  /* This font makes the entire page more artistic. It matches with the content*/
+  font-size: 30px;
+  } 
+  
+body{
+  font-family: 'Playfair Display', serif;
+  /* I used this font because it is easier to read with large contents, so it increases readability of the page.*/
+  line-height: 30px;
+  /* I added line height to make more space with each line to increase readability*/
+
+}
 
