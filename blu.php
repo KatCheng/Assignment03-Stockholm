@@ -17,6 +17,9 @@
     <div class=headerbox>
   <header>
     <h1>CHARLIE LU</h1>
+    <?php
+  include "includes/nav.php";
+  ?>
   </header>
 
   <?php
