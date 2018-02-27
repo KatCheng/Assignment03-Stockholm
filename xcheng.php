@@ -16,13 +16,15 @@
 <body>
     <div class=headerbox>
   <header>
-    <h1>Xiao Cheng</h1>
+    <h1>XIAO CHENG</h1>
   </header>
 
   <?php
   include "includes/nav.php";
   ?>
   <!-- User should be able to know which page they currently at, using JS to indicate current page-->
+  <!-- ***Designer should CORRECT THIS: 
+      Every design decision should be consistent in 3 websites! e.g. Alignment (center or left), margin and padding of each section. -->
 </div>
 <div class="container"> 
 
@@ -41,13 +43,13 @@
 
 <h2>Education</h2>
 <span>Major: Computer science</span>
-  	<ul>
-  	<li>Applied Statistics to social science</li>
-  	<li>Exploring research in family psychology</li>
-  	<li>Intro to psychology</li>
-  	<li>Theories of personality and psychotherapy</li>
-    <li>Neural foundations of behavior</li>
-    <li>Research Method in Psychology</li>
+    <ul>
+    <li>Intro to Computer Science</li>
+    <li>Data Structure</li>
+    <li>Artificial Intelligence</li>
+    <li>Web Development</li>
+    <li>Web Design</li>
+    <li>Advanced Web Design</li>
     </ul>
 
 </div>
