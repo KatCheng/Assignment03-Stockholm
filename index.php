@@ -11,7 +11,7 @@
 <body>
   <div class=headerbox>
   		<header>
-    		<h1>Women in Computer Science</h1>
+    		<h1>Women in Computing</h1>
     		<span>CSC 174 Assignment 3</span>
         <?php
       include "includes/nav.php";
