@@ -13,15 +13,16 @@
   		<header>
     		<h1>Three Chinese Girls</h1>
     		<span>CSC 174 Assignment 3</span>
+        <?php
+      include "includes/nav.php";
+      ?>
   		</header>
   </div>
 
       <!-- ***Designer should CORRECT THIS: 
       Every design decision should be consistent in 3 websites! e.g. Alignment (center or left), margin and padding of each section. -->
       
-  		<?php
-  		include "includes/nav.php";
-  		?>
+  		
       <div class="container">
      <!-- User should be able to know which page they currently at, using JS to indicate current page. The specific location of the navigation bar should be consistent, e.g. included in header box or just below header box. The designer can decide as long as it's consistent.-->
 
