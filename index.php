@@ -47,13 +47,13 @@
       <h2>Differences</h2>
       <!-- This differences should be aligned with each other, preferably in same horizontal line, with 3 clear blocks of information (e.g. Grid) -->
       <h3>Charlie Lu</h3>  
-      <p>Charlie was from Hangzhou, China.</p>       
+      <p>Charlie is from Hangzhou, China.</p>       
 
-      <h3>Xiao Chen</h3>    
-      <p>Xiao was from Guangzhou, China.</p>  
+      <h3>Xiao Cheng</h3>    
+      <p>Xiao is from Guangzhou, China.</p>  
 
       <h3>Valerie Wang</h3>
-      <p>Valerie was from Shanghai, China.</p>  
+      <p>Valerie is from Shanghai, China.</p>  
       	  			
       </div>	  		
         
