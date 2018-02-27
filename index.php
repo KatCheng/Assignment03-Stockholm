@@ -36,14 +36,16 @@
       <li><img src="images/valerie.jpg" alt="Valerie"></li>
     </ul>
     </div>
-
+<div class="flex-display">
+  <div class=intro>
       <h2>Commonality</h2>
       <ul>
         <li>Girls</li>
         <li>Chinese</li>
         <li>Major in Computer Science</li>
       </ul>   
-
+</div>
+<div class=intro>
       <h2>Differences</h2>
       <!-- This differences should be aligned with each other, preferably in same horizontal line, with 3 clear blocks of information (e.g. Grid) -->
       <h3>Charlie Lu</h3>  
@@ -54,6 +56,8 @@
 
       <h3>Valerie Wang</h3>
       <p>Valerie is from Shanghai, China.</p>  
+    </div>
+    </div>
       	  			
       </div>	  		
         
