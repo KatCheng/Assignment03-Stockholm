@@ -2,7 +2,7 @@ header {
   color: white;
   text-align: center;
   margin: 0px;
-  background-color: #B4C6DB;
+  background-color: rgb(70, 70, 140)
   padding: 30px 0px 30px 0px; 
 }
 
@@ -97,7 +97,7 @@ h1,h2,h3{
   /* This font makes the entire page more artistic. It matches with the content*/
   font-size: 30px;
   } 
-  
+
 body{
   font-family: 'Playfair Display', serif;
   /* I used this font because it is easier to read with large contents, so it increases readability of the page.*/
