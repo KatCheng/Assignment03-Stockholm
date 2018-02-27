@@ -15,9 +15,11 @@ h1 {
 }
 
 body {
-  line-height: 25px;
   color: rgb(76,76,76);
-  font-family: 'Montserrat';
+  font-family: 'Playfair Display', serif;
+  /* I used this font because it is easier to read with large contents, so it increases readability of the page.*/
+  line-height: 30px;
+  /* I added line height to make more space with each line to increase readability*/
 }
 
 figcaption {
@@ -52,8 +54,6 @@ footer {
 }
 
 .container {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
   margin: 0 auto;
   width: 70%;
   max-width: 960px;
@@ -100,11 +100,4 @@ h1,h2,h3{
   font-size: 30px;
   } 
 
-body{
-  font-family: 'Playfair Display', serif;
-  /* I used this font because it is easier to read with large contents, so it increases readability of the page.*/
-  line-height: 30px;
-  /* I added line height to make more space with each line to increase readability*/
-
-}
 
