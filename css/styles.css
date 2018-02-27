@@ -67,7 +67,7 @@ footer {
 
 .menu ul {
   list-style-type: none;
-  padding-left: 0;
+  padding-left: 10px;
   margin: 0;
   border-collapse: collapse; 
 }
