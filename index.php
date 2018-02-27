@@ -5,13 +5,13 @@
  	include'includes/links.php';
  	?>
 	<meta charset="utf-8">
-	<title>Team Tokyo's Assignment 3</title>
+	<title>Team Stockholm's Assignment 3</title>
 </head>
 
 <body>
   <div class=headerbox>
   		<header>
-    		<h1>Three Chinese Girls</h1>
+    		<h1>Women in Computer Science</h1>
     		<span>CSC 174 Assignment 3</span>
         <?php
       include "includes/nav.php";
