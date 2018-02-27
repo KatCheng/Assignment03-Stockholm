@@ -52,6 +52,8 @@ footer {
 }
 
 .container {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
   margin: 0 auto;
   width: 70%;
   max-width: 960px;
