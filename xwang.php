@@ -17,11 +17,12 @@
  <div class=headerbox>
   <header>
     <h1>VALERIE WANG</h1>
-  </header>
-
-  <?php
+    <?php
   include "includes/nav.php";
   ?>
+  </header>
+
+  
   <!-- User should be able to know which page they currently at, using JS to indicate current page-->
   <!-- ***Designer should CORRECT THIS: 
       Every design decision should be consistent in 3 websites! e.g. Alignment (center or left), margin and padding of each section. -->
