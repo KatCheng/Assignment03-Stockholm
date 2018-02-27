@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <?php 
   include'includes/links.php';
@@ -16,7 +15,8 @@
 <body>
     <div class=headerbox>
   <header>
-    <h1>Xiao Cheng</h1>
+    <h1>XIAO CHENG</h1>
+    <span>CSC 174 Assignment 3</span>
     <?php
   include "includes/nav.php";
   ?>
