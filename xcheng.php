@@ -6,7 +6,6 @@
   <?php 
   include'includes/links.php';
   ?>
-	<meta charset="utf-8">
 	<title>Xiao Cheng</title>
 </head>
 

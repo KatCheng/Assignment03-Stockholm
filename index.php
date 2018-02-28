@@ -1,10 +1,11 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <?php 
- 	include'includes/links.php';
- 	?>
 	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <?php 
+  include'includes/links.php';
+  ?>
 	<title>Team Stockholm's Assignment 3</title>
 </head>
 
