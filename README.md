@@ -1,5 +1,7 @@
 # Assignment03-TOKYO 
 
+## Information Architech --- Bei Lu
+I started by browsing around personal pages and choose 3 chinese girls who are all CS major. Then I organized informations into their commonalities and differences for index page. Also, I tailored their individual information according to three big categories. Finally, I made some suggestion for designer and coder on slideshow in index page and details on navigation bar.
 
 ## Designer --- Masaru Fujimaki 
 I designed our home page and three webpages according to CRAP principle. 
