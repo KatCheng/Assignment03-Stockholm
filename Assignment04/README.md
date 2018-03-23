@@ -8,6 +8,10 @@ https://github.com/KatCheng/Assignment03-Stockholm
 
 
 
+## Database Location
+
+Name: stockh
+
 ## Information Architech --- Xiao Cheng
 
 #### Ontology
