@@ -1,0 +1,67 @@
+.box1{
+  height: 400px;
+  background-color: #72b4cc;
+}
+.box2{
+  height: 400px;
+  background-color: black;
+  border-top-width: 0.5px;
+  border-top-color: white;
+}
+.box3{
+  height: 400px;
+}
+.textbox{
+  color: white;
+}
+.pic1{
+  margin-top: 50px;
+  margin-right: 60px;
+  float: right;
+}
+.pic2{
+  margin-top: 50px;
+  margin-left: 60px;
+  float: left;
+}
+.name{
+  text-align: center;
+  padding-top: 15px;
+  font-size: 30px;
+  font-family: 'Teko', sans-serif;
+}
+.textcentered{
+  text-align: left;
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-size: 20px;
+}
+.pad1{
+  padding-left: 650px;
+}
+.pad2{
+  padding-left: 100px;
+}
+.button{
+  text-align: center;
+  text-decoration: none;
+  text-decoration-color: none;
+  font-size: 18px;
+  padding-top: 8px;
+}
+.textcentered1{
+  text-align: center;
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-size: 20px;
+}
+ul li{
+  display: inline;
+}
+.centerheader{
+  text-align: center;
+  font-family: 'Teko', sans-serif;
+  font-size: 40px;
+}
+.box4{
+  height: 450px;
+  margin-top: 100px;
+}
