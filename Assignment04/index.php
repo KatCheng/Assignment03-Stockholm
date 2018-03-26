@@ -2,8 +2,9 @@
 
         <!--part 1: Overall Introduction-->
         <div class="box4">
-        <div class = "centerheader">
-        <h1> "Odd Team Member" </h1>
+        <div id = "floater">
+        <div id = "content"><h1> "Odd Team Member" </h1></div>
+      </div>
       </div>
     </div>
 
@@ -37,20 +38,19 @@
         <div class="pic1">
         <img src = "../images/charlie.jpg", title = "BeiLu", alt = "Charlie">
       </div>
-        <div class = "textbox">
+      <body>
         <div class = "name">
         <h2><a id = "Charlie"></a>Bei (Charlie) Lu</h2>
       </div>
       <div class="textcentered">
-        <div class="pad2">
         <p>Charlie is from Hangzhou, China.</p>
         <p>Charlie is majoring in Computer Science.</p>
         <p>Charlie was a research assistant at Zhejiang University's developmental psychology lab.</p>
       </div>
-      </div>
-      <div class="button">
+    </body>
+      <span class="button">
         <a href = "#ContactForm">Contact Charlie</a>
-      </div>
+      </span>
         <br>
       </div>
       </div>
@@ -60,20 +60,19 @@
           <div class="pic2">
         <img src = "../images/xiao.jpg", title = "XiaoCheng", alt = "Kat">
       </div>
-      <div class="textbox">
+      <body>
         <div class="name">
         <h2><a id = "Kat"></a>Xiao (Kat) Cheng</h2>
       </div>
-      <div class="textcentered">
-        <div class="pad1">
+          <div class="textcentered">
         <p>Kat is from Guangzhou, China.</p>
         <p>Kat is majoring in Computer Science.</p>
         <p>Kat worked as a workshop leader last semester for the Philosophy Department.</p>
       </div>
-      </div>
-      <div class="button">
+      </body>
+      <span class="button">
         <a href = "#ContactForm">Contact Kat</a>
-      </div>
+      </span>
         <br>
       </div>
       </div>
@@ -83,20 +82,19 @@
           <div class="pic1">
         <img src = "../images/valerie.jpg", title = "XuanyangWang", alt = "Valerie">
       </div>
-      <div class="textbox">
+      <body>
         <div class="name">
         <h2><a id = "Valerie"></a>Xuanyang (Valerie) Wang</h2>
       </div>
       <div class="textcentered">
-        <div class="pad2">
         <p>Valerie is from Shanghai, China.</p>
         <p>Valerie is majoring in Computer Science.</p>
         <p>Valerie is working as Vice President and Staff Photographer of UR Photography.</p>
       </div>
-      </div>
-      <div class="button">
+    </body>
+      <span class="button">
         <a href = "#ContactForm">Contact Valerie</a>
-      </div>
+      </span>
         <br>
       </div>
       </div>
@@ -106,24 +104,24 @@
           <div class="pic2">
         <img src = "../images/alex.jpg", title = "AlexanderPunj", alt = "Alexander">
       </div>
-      <div class="name">
+      <body>
+      <div class="name1">
         <h2><a id = "Alexander"></a>Alexander Punj</h2>
       </div>
-      <div class="textcentered">
-        <div class ="pad1">
+      <div class="textcentered2">
         <p>Alexander is from Ohio, United States.</p>
         <p>Alexander is majoring in Economics.</p>
         <p>Alexander is a freelance audio engineer.</p>
       </div>
-      </div>
-      <div class="button">
+    </body>
+      <span class="button2">
         <a href = "#ContactForm">Contact Alexander</a>
-      </div>
+      </span>
       </div>
 
         <!--part 6: Contact Form -->
         <div class="box3">
-          <div class="name">
+          <div class="name1">
         <h2><a id = "ContactForm"></a>Contact Form</h2>
       </div>
       <div class="textcentered1">
@@ -147,5 +145,7 @@
         </form>
       </div>
     </div>
+
+    <?php include'inc/scripts.inc';?>
       </body>
       </html>

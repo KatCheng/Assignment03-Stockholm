@@ -11,9 +11,6 @@
 .box3{
   height: 400px;
 }
-.textbox{
-  color: white;
-}
 .pic1{
   margin-top: 50px;
   margin-right: 60px;
@@ -25,28 +22,49 @@
   float: left;
 }
 .name{
-  text-align: center;
+  color:white;
   padding-top: 15px;
   font-size: 30px;
   font-family: 'Teko', sans-serif;
 }
+.name1{
+  color:black;
+  padding-top: 15px;
+  font-size: 30px;
+  font-family: 'Teko', sans-serif;
+}
+body{
+  text-align: center;
+}
 .textcentered{
+  color: white;
+  width: 900px;
   text-align: left;
   font-family: 'Pathway Gothic One', sans-serif;
   font-size: 20px;
+  margin: 0 auto;
 }
-.pad1{
-  padding-left: 650px;
-}
-.pad2{
-  padding-left: 100px;
+.textcentered2{
+  color: black;
+  width: 900px;
+  text-align: left;
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-size: 20px;
+  margin: 0 auto;
 }
 .button{
   text-align: center;
-  text-decoration: none;
-  text-decoration-color: none;
   font-size: 18px;
-  padding-top: 8px;
+  padding:6px;
+  background-color: white;
+  border-radius: 15px;
+}
+.button2{
+  text-align: center;
+  font-size: 18px;
+  padding:6px;
+  background-color: black;
+  border-radius: 15px;
 }
 .textcentered1{
   text-align: center;
@@ -56,12 +74,47 @@
 ul li{
   display: inline;
 }
-.centerheader{
-  text-align: center;
-  font-family: 'Teko', sans-serif;
-  font-size: 40px;
-}
 .box4{
-  height: 450px;
+  height: 200px;
   margin-top: 100px;
+}
+#floater{
+  text-align: center;
+  height: 50%;
+  margin-bottom: -120px;
+}
+#content{
+  clear: both;
+  height: 240px;
+  position: relative;
+  font-size: 40px;
+  font-family: 'Pathway Gothic One', sans-serif;
+}
+#navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  font-family: 'Teko', sans-serif;
+  font-size: 25px;
+}
+.content {
+  padding: 1px;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+.sticky + .content {
+  padding-top: 20px;
+}
+a{
+  text-decoration: none;
 }
