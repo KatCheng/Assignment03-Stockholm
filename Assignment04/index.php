@@ -127,7 +127,7 @@
         <h2><a id = "ContactForm"></a>Contact Form</h2>
       </div>
       <div class="textcentered1">
-        <form>
+        <form method="post" action="contact.php">
           <div>
             <label for = "name">To: </label>
             <br>
