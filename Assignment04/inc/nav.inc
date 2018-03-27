@@ -1,6 +1,6 @@
 <!-- Navigation bar -->
 
-<div id = "navbar">
+<div id = "menu">
 <nav>
   <ul>
     <li><a href = "#Charlie">Charlie</a></li>

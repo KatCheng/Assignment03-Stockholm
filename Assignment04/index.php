@@ -2,10 +2,7 @@
 
         <!--part 1: Overall Introduction-->
         <div class="box4">
-        <div id = "floater">
-        <div id = "content"><h1> "Odd Team Member" </h1></div>
-      </div>
-      </div>
+        <h1> "Odd Team Member" </h1>
     </div>
 
         <?php include'inc/nav.inc';?>
@@ -41,6 +38,8 @@
       </div>
       </div>
 
+      <br>
+
         <!--part 2: Bei Lu -->
         <div class="box2">
         <div class="pic1">
@@ -63,6 +62,8 @@
       </div>
       </div>
 
+      <br>
+
         <!--part 3: Xiao Cheng -->
         <div class = "box2">
           <div class="pic2">
@@ -72,7 +73,7 @@
         <div class="name">
         <h2><a id = "Kat"></a>Xiao (Kat) Cheng</h2>
       </div>
-          <div class="textcentered">
+          <div class="textcentered3">
         <p>Kat is from Guangzhou, China.</p>
         <p>Kat is majoring in Computer Science.</p>
         <p>Kat worked as a workshop leader last semester for the Philosophy Department.</p>
@@ -84,6 +85,8 @@
         <br>
       </div>
       </div>
+
+      <br>
 
         <!--part 4: Xuanyang Wang -->
         <div class="box2">
@@ -107,6 +110,8 @@
       </div>
       </div>
 
+      <br>
+
         <!--part 5: Alexander Punj -->
         <div class = "box3">
           <div class="pic2">
@@ -126,6 +131,8 @@
         <a href = "#ContactForm">Contact Alexander</a>
       </span>
       </div>
+
+      <br>
 
         <!--part 6: Contact Form -->
         <div class="box5">
@@ -154,6 +161,5 @@
       </div>
     </div>
 
-    <?php include'inc/scripts.inc';?>
       </body>
       </html>
