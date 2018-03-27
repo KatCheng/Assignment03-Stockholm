@@ -1,6 +1,6 @@
 .box1{
   height: 400px;
-  background-color: #72b4cc;
+  background-color: #bcc0c6;
 }
 .box2{
   height: 400px;
@@ -10,6 +10,9 @@
 }
 .box3{
   height: 400px;
+}
+.box5{
+  background-color: #bcc0c6;
 }
 .pic1{
   margin-top: 50px;
@@ -72,7 +75,7 @@ body{
   font-size: 20px;
 }
 ul li{
-  display: inline;
+  display: block;
 }
 .box4{
   height: 200px;
@@ -117,4 +120,17 @@ ul li{
 }
 a{
   text-decoration: none;
+  color: #878d96;
+}
+.list1{
+  padding-left: 250px;
+  float: left;
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-size: 20px;
+}
+.list2{
+  padding-right: 250px;
+  float: right;
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-size: 20px;
 }

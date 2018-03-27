@@ -9,8 +9,12 @@
     </div>
 
         <?php include'inc/nav.inc';?>
+        <div class="mainbody">
         <div class="box1">
+          <div class = "name">
         <h2> Major, Nationality, Gender </h2>
+      </div>
+      <div class="list1">
         <ul>
           <li>Name: Bei Lu</li>
           <li>Major: Computer Science</li>
@@ -21,6 +25,8 @@
           <li>Major: Computer Science</li>
           <li>Hometown: Guangzhou, China</li>
         </ul>
+      </div>
+      <div class="list2">
         <ul>
           <li>Name: Xuanyang Wang</li>
           <li>Major: Computer Science</li>
@@ -31,6 +37,8 @@
           <li>Major: Economics</li>
           <li>Hometown: Iowa, US</li>
         </ul>
+      </div>
+      </div>
       </div>
 
         <!--part 2: Bei Lu -->
@@ -120,7 +128,7 @@
       </div>
 
         <!--part 6: Contact Form -->
-        <div class="box3">
+        <div class="box5">
           <div class="name1">
         <h2><a id = "ContactForm"></a>Contact Form</h2>
       </div>
