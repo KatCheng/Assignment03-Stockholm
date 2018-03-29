@@ -21,13 +21,19 @@
   <head>
       <meta charset="utf-8">
       <title>Contact Success</title>
+      <link href="https://fonts.googleapis.com/css?family=Pathway+Gothic+One|Teko" rel="stylesheet">
+      <link rel = "stylesheet" type = "text/css" href = "./css/style.css">
   </head>
-  <body>
-    <p>Thank you for leaving the message!<p>
-    <?php echo $name; ?> will be in contact with you shortly to the provided email address: <?php echo $email; ?>
+  <body style="background-color: #60779b">
+    <div class="centerbox">
+    <div class="small"><p>Thank you for leaving the message!<p><div>
+    <span class="bold"><?php echo $name; ?></span> will be in contact with you shortly to the provided email address: <span class="bold"><?php echo $email; ?></span>
     <p> For your information, below is what we have received:<p>
-    <?php echo $content; ?><br><br>
+    <div class="bold"><?php echo $content; ?></div><br><br>
+  </div>
+  <div class="goback">
     <a href="index.php">Go Back to Main Page</a>
+  </div>
   </body>
 </html>
 

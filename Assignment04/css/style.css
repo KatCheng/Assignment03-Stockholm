@@ -141,3 +141,34 @@ a:hover{
 a:active{
   color: #284577;
 }
+.centerbox{
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  top: 15%;
+  left: 25%;
+  background-color: #dadee5;
+  border-radius: 16px;
+  text-align: center;
+  color: #355489;
+  padding-top: 100px;
+}
+.small{
+  font-family: 'Abel', sans-serif;
+}
+.bold{
+  font-size: 25px;
+  font-family: 'Teko', sans-serif;
+}
+.goback{
+  padding-top: 5px;
+  width: 180px;
+  height: 30px;
+  background-color: #dadee5;
+  position: absolute;
+  top: 110%;
+  left: 70%;
+  border-radius: 16px;
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-size: 18px;
+}
