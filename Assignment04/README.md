@@ -44,4 +44,12 @@ The form contains three parts: The name of the the student that the user want to
 
 ## Designer --- Xiao Cheng
 
+In order to show the differences between the students, I made the background color of the "odd student" white while the other three's black, since I think they are the most contracting colors. I used Z-pattern as the IA suggested. 
+
+I used different sizes for headings, title, and paragraphs, in order to tell the difference between these elements. The introductions of all four students follow the same pattern: Name, hometown, major, experience, and contact button, in order to maintain consistency for the whole website. The elements all have the same alignment. Finally, Items that are close together have a relationship with each other - all are relative information about the same student.
+
+For the index page, I used two types of fonts - one bolder and one more regular. However, I chose two fonts that both look a bit "rectangle", because I think putting two completely different fonts together seems a bit weird. For the contact page, I also used two types of fonts for the receipt. I specifically stressed the name of recipient, email address, and content by using a different font and larger size, because I think that would help the user to find the information more quickly. 
+
+I used the css position fixed for the navigation bar, in order to make it "skicky". However, I was not able to highlight my navigation bar because my elements are anchor and I could not figure out how to highlight my element without refreshing the page. 
+
 ## Coder --- Yeonwoo Lee
