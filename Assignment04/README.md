@@ -30,6 +30,8 @@ Nationality: Three students are from China and one student is from Iowa.
 
 Gender: Three students are female and one student is male.
 
+I grouped and differenced the students based on these three categories. In order to show the differences between them, I suggest using contrasting background colors. 
+
 #### Structure
 
 Instead of listing all the paragraphs, I thought it would be interesting to stack multiple Z-patterns one over another. In this way, In order for the contents to be contracting, I suggest using contrasting colors for the background. While at the same time remain consistent, I think the odd images can be positioned to the right of the article, and the even images can be on the left. Also, since we are using Z-pattern, it would be nicer if we list the contents in bulletpoints instead of gigantic paragraphs.
