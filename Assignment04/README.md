@@ -20,7 +20,7 @@ Name: stockh
 
 #### Choreography
 
-The index page gives a general introduction about all four students. While stating the differences between them. Below the index page, there is a form which allows users to contact the students. All information are listed in a navigation bar that makes the user flow more user-friendly.
+The index page gives a general introduction about all four students, while stating the differences between them. Below the index page are specific information about each student, along with their pictures. For each student, there is a button that leads to the bottom of the web page, there is a contact form which allows the users to contact the student. After submitting the content, the user will be led to a different page with the submission information. After reviewing the information, the users can go back to the main page by clicking the "go back" button. All information are listed in a navigation bar that makes the user flow more user-friendly.
 
 #### Taxonomy
 
