@@ -60,3 +60,5 @@ For the index page, I used two types of fonts - one bolder and one more regular.
 I used the css position fixed for the navigation bar, in order to make it "sticky". However, I was not able to highlight my navigation bar because my elements are anchor and I could not figure out how to highlight my element without refreshing the page.
 
 ## Coder --- Yeonwoo Lee
+
+I have connected index.php with contact.php by using post method. contact.php contains all the codes to insert data into bluehost database and few lines for the users what data is entered. There are no significantly noticeable bugs or deficiencies caused by plugin (menu-highlighter).  
