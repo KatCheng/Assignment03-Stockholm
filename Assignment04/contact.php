@@ -6,7 +6,6 @@
   $dbname = "urcscon3_stockh";
   $connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
 
-  //$insertData = "Hello person";
   $name = Trim(stripslashes($_POST['name']));
   $email = Trim(stripslashes($_POST['email']));
   $content = Trim(stripslashes($_POST['content']));
@@ -38,9 +37,6 @@
 </html>
 
 <?php
-  // Step 4: Release returned data
-  // mysqli_free_result($result);
-
-  // Step 5: Close database connection
+  // Step 3: Close database connection
   mysqli_close($connection);
 ?>
