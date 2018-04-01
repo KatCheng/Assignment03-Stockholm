@@ -11,11 +11,15 @@ https://github.com/KatCheng/Assignment03-Stockholm
 
 
 ## Website Location
+<<<<<<< HEAD
 
 http://urcsc174.org/assignment04/assignment04-stockholm/Assignment04
 
 
 
+=======
+http://urcsc174.org/assignment04/assignment04-stockholm/Assignment04/
+>>>>>>> origin/master
 
 
 ## Database Location
