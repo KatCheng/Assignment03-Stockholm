@@ -57,6 +57,6 @@ I used different sizes for headings, title, and paragraphs, in order to tell the
 
 For the index page, I used two types of fonts - one bolder and one more regular. However, I chose two fonts that both look a bit "rectangle", because I think putting two completely different fonts together seems a bit weird. For the contact page, I also used two types of fonts for the receipt. I specifically stressed the name of recipient, email address, and content by using a different font and larger size, because I think that would help the user to find the information more quickly. 
 
-I used the css position fixed for the navigation bar, in order to make it "skicky". However, I was not able to highlight my navigation bar because my elements are anchor and I could not figure out how to highlight my element without refreshing the page. 
+I used the css position fixed for the navigation bar, in order to make it "sticky". However, I was not able to highlight my navigation bar because my elements are anchor and I could not figure out how to highlight my element without refreshing the page. 
 
 ## Coder --- Yeonwoo Lee
