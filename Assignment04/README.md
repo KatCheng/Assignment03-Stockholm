@@ -44,19 +44,19 @@ The names of the students should be stressed, so it would be nicer if we use a b
 
 The form contains three parts: The name of the the student that the user want to address to, the user's own email address for his/her recipient to contact him/her back, and the content of the email he/she just sent. After submitting the email, the user will be send to a "receipt" page where all the three elements are listed. After reviewing the submission, there is a "go back" button that will lead the user back to the index page.
 The general idea for the form looks like this:
-<div>
-<label for = "name">To: </label>
-<input type = "text" name = "name" id = "name">
-</div>
-<div>
-<lable for = "email">Your Email Address: </lable>
-<input type = "text" name = "email" id = "email">
-</div>
-<div>
-<lable for = "content">Content: </lable>
-<input type = "text" name = "content" id = "content">
-</div>
-<input type = "submit" value = "Submit">
+      <div>
+      <label for = "name">To: </label>
+      <input type = "text" name = "name" id = "name">
+      </div>
+      <div>
+      <lable for = "email">Your Email Address: </lable>
+      <input type = "text" name = "email" id = "email">
+      </div>
+      <div>
+      <lable for = "content">Content: </lable>
+      <input type = "text" name = "content" id = "content">
+      </div>
+      <input type = "submit" value = "Submit">
 
 ## Designer --- Xiao Cheng
 
